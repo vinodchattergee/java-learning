@@ -1,0 +1,21 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÛ“õ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬‹¦Íøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ‘Å½
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(´ÖÛëşÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ò¸¯€şÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(É¦Ş°
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ò­ç®
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(û·¯¬ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªƒ÷Úÿÿÿÿÿ
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ß»ƒ8Â‰±Ö0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÌîÜúÿÿÿÿ8ÍÚ³Ö0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ã †­8ÍÚ³Ö0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙÕùü8ëÒ¸Ö0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ºí§Íüÿÿÿÿ8ıÈåÖ0
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(®›Ê8¿àæÖ0
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(ÇùªO8‚€èÖ0
+f
+java:S1192&"IDefine a constant instead of duplicating this literal " l/100KM" 4 times.(ß»ƒ8ÎÚ³Ö0
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,29 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÛ“õ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¬‹¦Íøÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ğ‘Å½
+S	java:S106""9Replace this use of System.out or System.err by a logger.(´ÖÛëşÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ò¸¯€şÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(É¦Ş°
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ò­ç®
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(û·¯¬ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªƒ÷Úÿÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ß»ƒ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÌîÜúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ã †­
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÙÕùü
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ºí§Íüÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(®›Ê
+M	java:S106."9Replace this use of System.out or System.err by a logger.(ÇùªO
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(õÚ‘è
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(ÆíİF
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(²Ã¿éÿÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ïÛÖ£üÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(”åÑ»
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ñÜˆâ
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ê¤òÃùÿÿÿÿ8ğî¼×0
+_
+java:S1192("IDefine a constant instead of duplicating this literal " l/100KM" 4 times.(ß»ƒ
+0
+java:S1220""Move this file to a named package.
