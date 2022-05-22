@@ -48,15 +48,20 @@ public class App {
         System.out.println("The cars price is lesser than or equal to the money in the bank : " + (moneyInBank >= price));
         System.out.println("The car dataType is String : " + (car instanceof String));
         System.out.println();
+        //        Ternary Operators
         String damagedText = isDamaged ? "The car is damaged " : " The car is not damaged";
         System.out.println("The cars status : " + damagedText);
         System.out.println();
+
+        //          Logical Operators
+        String worthSeeingTheCarText = !isDamaged || price <= 120000 ? "Its is worth seeing the car." : "It is not worth seeing the car.";
+        System.out.println(" Cars current value : " + worthSeeingTheCarText);
+        String worthRepairingTheCarText = isDamaged && price <= 100000 ? "It is worth buying and repairing the car." : "It is not worth buying and then repairing the car.";
+        System.out.println(" Cars current value : " + worthRepairingTheCarText);
 
 
 //        Assignment Operators
 
 
-//        Ternary Operators
-//          Logical Operators
     }
 }
