@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class App {
     public static void main(String[] args) {
         String car = "Honda BRV";
@@ -17,10 +19,28 @@ public class App {
         System.out.println("You can buy " + brvsYouCanBuy + " car(s) of model " + car + " with your money in bank");
         int moneyRemaining = moneyInBank % price;
         System.out.println("You will have " + moneyRemaining + " after buying " + brvsYouCanBuy + " BRVs");
+        System.out.println();
+        //        UnaryOperators
+        System.out.println();
+        int priceNegative = -140000;
+        int priceNegativeWithPlusSign = +priceNegative;
+        System.out.println("Negative price with plus sign : INR " + priceNegativeWithPlusSign);
+        int priceNegativeWithMinusSign = -priceNegative;
+        System.out.println("Negative price with minus sign : INR " + priceNegativeWithMinusSign);
+        int oneRupeePriceIncrease = price++;//price has become 140001 but is evaluated after assignment.
+        System.out.println("Price didnt increased by 1 rupee as the evaluation happened after the price is assigned. " + oneRupeePriceIncrease);
+        int oneRupeePriceIncrease2 = ++price;//price has become 140002 and is evaluated before assignment.
+        System.out.println("Price is increased by 2 rupee as the evaluation is now happened before the assignment. " + oneRupeePriceIncrease2);
+        int oneRupeePriceDecrease = price--;//price has become 140001 but is evaluated after assignment.
+        System.out.println("Price didnt decreased by 1 rupee as the evaluation happened after the price is assigned. " + oneRupeePriceDecrease);
+        int oneRupeePriceDecrease2 = --price;//price has become 140000 and is evaluated before assignment.
+        System.out.println("Price is decreased by 2 rupee as the evaluation is now happened before the assignment. " + oneRupeePriceDecrease2);
+        System.out.println("The car is damaged? : "+ !isDamaged);
+        System.out.println();
 
 //        Assignment Operators
 
-//        UnaryOperators
+
 //        Equality And Relational Operators
 //        Ternary Operators
 //          Logical Operators
