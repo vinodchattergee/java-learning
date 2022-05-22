@@ -58,9 +58,20 @@ public class App {
         System.out.println(" Cars current value : " + worthSeeingTheCarText);
         String worthRepairingTheCarText = isDamaged && price <= 100000 ? "It is worth buying and repairing the car." : "It is not worth buying and then repairing the car.";
         System.out.println(" Cars current value : " + worthRepairingTheCarText);
+        //        Assignment Operators
+
+        price+=1000;
+        System.out.println("The price is increased INR "+price);
+        price-=2000;
+        System.out.println("The price is decreased INR "+price);
+        price*=2;
+        System.out.println("The price is multiplied INR "+price);
+        price/=2;
+        System.out.println("The price is divided INR "+price);
+        price%=10000;
+        System.out.println("The price remained INR "+price);
 
 
-//        Assignment Operators
 
 
     }
