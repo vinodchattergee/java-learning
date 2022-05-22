@@ -35,13 +35,27 @@ public class App {
         System.out.println("Price didnt decreased by 1 rupee as the evaluation happened after the price is assigned. " + oneRupeePriceDecrease);
         int oneRupeePriceDecrease2 = --price;//price has become 140000 and is evaluated before assignment.
         System.out.println("Price is decreased by 2 rupee as the evaluation is now happened before the assignment. " + oneRupeePriceDecrease2);
-        System.out.println("The car is damaged? : "+ !isDamaged);
+        System.out.println("The car is damaged? : " + !isDamaged);
         System.out.println();
+
+        //        Equality And Relational Operators
+        System.out.println();
+        System.out.println("The cars price is equal to the money in the bank : " + (moneyInBank == price));
+        System.out.println("The cars price is not equal to the money in the bank : " + (moneyInBank != price));
+        System.out.println("The cars price is greater than the money in the bank : " + (moneyInBank < price));
+        System.out.println("The cars price is lesser than the money in the bank : " + (moneyInBank > price));
+        System.out.println("The cars price is greater than or equal to the money in the bank : " + (moneyInBank <= price));
+        System.out.println("The cars price is lesser than or equal to the money in the bank : " + (moneyInBank >= price));
+        System.out.println("The car dataType is String : " + (car instanceof String));
+        System.out.println();
+        String damagedText = isDamaged ? "The car is damaged " : " The car is not damaged";
+        System.out.println("The cars status : " + damagedText);
+        System.out.println();
+
 
 //        Assignment Operators
 
 
-//        Equality And Relational Operators
 //        Ternary Operators
 //          Logical Operators
     }
