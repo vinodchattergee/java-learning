@@ -2,22 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9244232-c6d0-40ae-8fee-fcade8f86615" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/ControlFlows/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/Methods/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/ObjectReferences/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/Operators/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/Primitives/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/out/production/PrimitivesConversion/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ControlFlows/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectReferences/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Operators/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Primitives/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PrimitivesConversion/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/Arrays/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/ControlFlows/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/Methods/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/ObjectReferences/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/Operators/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/Primitives/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/out/production/PrimitivesConversion/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMDB-Practice/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,19 +129,19 @@
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="Methods" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="Methods" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Methods" />
+      <module name="Arrays" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,14 +225,7 @@
       <option name="project" value="LOCAL" />
       <updated>1653296496773</updated>
     </task>
-    <task id="LOCAL-00010" summary="Methods">
-      <created>1653302476650</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1653302476650</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,7 +238,6 @@
     <MESSAGE value="loops" />
     <MESSAGE value="controlflows" />
     <MESSAGE value="controlflow -the millionare App" />
-    <MESSAGE value="Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="controlflow -the millionare App" />
   </component>
 </project>
