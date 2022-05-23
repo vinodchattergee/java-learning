@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ControlFlows.iml" filepath="$PROJECT_DIR$/ControlFlows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheMillionareApp.iml" filepath="$PROJECT_DIR$/TheMillionareApp.iml" />
     </modules>
   </component>
 </project>
