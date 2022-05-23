@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9244232-c6d0-40ae-8fee-fcade8f86615" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ControlFlows/.idea/sonarlint/issuestore/2/6/269dbd09ce2fdddcb7a6401af392e15cde34d1bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/269dbd09ce2fdddcb7a6401af392e15cde34d1bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/sonarlint/issuestore/2/6/269dbd09ce2fdddcb7a6401af392e15cde34d1bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/ControlFlows.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TheMillionareApp/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlows/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlows/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlows/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlows/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
